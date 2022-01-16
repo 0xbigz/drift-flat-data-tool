@@ -1,0 +1,10 @@
+drift-flat-data-*
+retired
+
+# some large comb-data
+drift-comb-data/trade_history_hist.csv
+drift-comb-data/users_state_hist.csv
+drift-comb-data/fundingPayment_history_hist.csv
+drift-comb-data/positions_state_hist.csv
+
+.DS_Store
